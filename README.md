@@ -24,7 +24,7 @@ I am pursuing a career in Security Analysis and I'm continuously building hands-
 
 ## 🏗️ In Development
 
-### Network Security Project
+### Secure Multi-Location Network Deployment
 **Description:**  
 Design and deploy a segmented, monitored network across two locations with secure remote connectivity.
 
