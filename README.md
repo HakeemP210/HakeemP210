@@ -24,7 +24,7 @@ I am pursuing a career in Security Analysis and I'm continuously building hands-
 
 ## 🏗️ In Development
 
-### Secure Multi-Location Network Deployment 
+### <a href="https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment">Secure Multi-Location Network Deployment</a>
 **Description:**  
 Design and deploy a segmented, monitored network across two locations with secure remote connectivity.
 
