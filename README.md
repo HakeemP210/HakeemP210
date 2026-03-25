@@ -18,14 +18,17 @@ I am pursuing a career in Security Analysis and I'm continuously building hands-
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
----
 
-# 📂 Cybersecurity Projects
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  
+## 📂 Cybersecurity Projects
 
-## 🏗️ In Development
+### 🏗️ In Development
 
-### <a href="https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment">Secure Multi-Location Network Deployment</a>
+#### <a href="https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment">Secure Multi-Location Network Deployment</a>
 **Description:**  
 Design and deploy a segmented, monitored network across two locations with secure remote connectivity.
 
-## ✅ Completed Projects
+### ✅ Completed Projects
