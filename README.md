@@ -33,3 +33,7 @@ I am pursuing a career in Security Analysis and I'm continuously building hands-
 Design and deploy a segmented, monitored network across two locations with secure remote connectivity.
 
 ### ✅ Completed Projects
+
+#### <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build">Virtual Segmented Cybersecurity Home Lab</a>
+**Description:**  
+Build a segmented home lab to practice hands-on skills
