@@ -31,6 +31,10 @@ I am pursuing a career in Security Analysis and I'm continuously building hands-
 #### <a href="https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment">Secure Multi-Location Network Deployment</a>
 **Description:**  
 Design and deploy a segmented, monitored network across two locations with secure remote connectivity.
+#### [GLBA Safeguards Rule Risk Assessment](https://github.com/HakeemP210/glba-risk-assessment)
+
+**Description:**  
+Building a 16 CFR §314.4 GLBA Safeguards Rule risk assessment program mapped to NIST CSF 2.0 — asset inventory, risk register, safeguards gap analysis, incident response, and service provider oversight, documented as a public, genericized methodology.
 
 ### ✅ Completed Projects
 
