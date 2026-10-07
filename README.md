@@ -37,7 +37,7 @@ I am pursuing a career in Security Analysis and I'm continuously building hands-
 **Description:**  
 Build a segmented home lab to practice hands-on skills
 Design and deploy a segmented, monitored network across two locations with secure remote connectivity.
-#### [GLBA Safeguards Rule Risk Assessment](https://github.com/HakeemP210/glba-risk-assessment)
+#### [GLBA Safeguards Rule Risk Assessment Program](https://github.com/HakeemP210/glba-risk-assessment)
 
 **Description:**  
 Building a 16 CFR §314.4 GLBA Safeguards Rule risk assessment program mapped to NIST CSF 2.0 — asset inventory, risk register, safeguards gap analysis, incident response, and service provider oversight, documented as a public, genericized methodology.
