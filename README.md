@@ -15,7 +15,7 @@ I am pursuing a career in Security Analysis and I'm continuously building hands-
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-09-13_tier2-build-report.md">Virtual Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/9681d68bd016bbc6fda1216f0596310e59deaab0/2026-09-14_tier2-visibility-exercise-report.md">Detection Lab</a>|
 | Active Directory Hardening and Security Baselining         | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-10-04_tier3-build-report.md">Virtual Lab</a>|
-| Vulnerability Remediation and Patch Management      | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-10-04_tier3-build-report.md">Virtual Lab</a>|
+| Vulnerability Remediation and Patch Management      | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-10-04_tier3-build-report.md#5-part-6-vulnerability-findings">Virtual Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
