@@ -11,13 +11,13 @@ I am pursuing a career in Security Analysis and I'm continuously building hands-
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cyber Security Virtual Lab Build              | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build">Virtual Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-09-13_tier2-build-report.md">Virtual Lab</a>|
-| Brute-Force Attack Simulation and Detection | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/9681d68bd016bbc6fda1216f0596310e59deaab0/2026-09-14_tier2-visibility-exercise-report.md">Detection Lab</a>|
-| Active Directory Hardening and Security Baselining         | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-10-04_tier3-build-report.md#3-build-summary">Virtual Lab</a>|
-| Vulnerability Remediation and Patch Management      | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-10-04_tier3-build-report.md#5-part-6-vulnerability-findings">Virtual Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Segmentation and Firewall Architecture | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-08-06_homelab-network-diagram.md">Virtual Lab</a>|
+| Linux Server Administration (Amazon Linux 2023) | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-09-13_tier2-build-report.md">Virtual Lab</a>|
+| Identity and Access Management (Active Directory and Group Policy) | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-10-04_tier3-build-report.md#3-build-summary">Virtual Lab</a>|
+| Security Monitoring and Centralized Logging (Wazuh SIEM) | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-09-13_tier2-build-report.md">Detection Lab</a>|
+| Detection Engineering (Custom SIEM Decoders and Rules) | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-10-11_tier5-detection-engineering-checklist.md">Detection Lab</a>|
+| Vulnerability Management and Security Hardening | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build/blob/main/2026-10-04_tier3-build-report.md#5-part-6-vulnerability-findings">Virtual Lab</a>|
+| Infrastructure Deployment and Configuration | <a href="https://github.com/HakeemP210/Cybersecurity-Virtual-Lab-Build">Virtual Lab</a>|
 
 
 ## Certifications
