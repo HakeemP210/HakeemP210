@@ -38,6 +38,10 @@ Building a 16 CFR §314.4 GLBA Safeguards Rule risk assessment program mapped to
 
 ### 🏗️ In Development
 
+#### [Secure 3-Tier Cloud Application on AWS with CI/CD](https://github.com/HakeemP210/asset-inventory)
+**Description:**  
+Deploy a segmented 3-tier web app on AWS with least-privilege network access, managed secrets, and an automated CI/CD (Continuous Integration/Continuous Deployment) pipeline with rollback.
+
 #### <a href="https://github.com/HakeemP210/Secure-Multi-Location-Network-Deployment">Secure Multi-Location Network Deployment</a>
 **Description:**  
 Design and deploy a segmented, monitored network across two locations with secure remote connectivity.
